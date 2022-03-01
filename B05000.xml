@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riddle of the roundhead to the tune of Now at last the riddle is expounded.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05000</idno>
+            <idno type="STC">Wing R1439A</idno>
+            <idno type="STC">ESTC R182720</idno>
+            <idno type="EEBO-CITATION">52615131</idno>
+            <idno type="OCLC">ocm 52615131</idno>
+            <idno type="VID">176060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176060)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Riddle of the roundhead to the tune of Now at last the riddle is expounded.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nath. Thompson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Includes two lines of music at top of sheet.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Roundheads --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:176060:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <head>Riddle of the Roundhead. An Excellent New SONG.</head>
+            <opener>To the Tune of, <hi>Now at laſt the Riddle is Expounded.</hi>
+            </opener>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <lg n="1">
+               <head>1.</head>
+               <l>NOw at laſt the Riddle is Expounded,</l>
+               <l>Which ſo long the Nation has Confounded;</l>
+               <l>For the Roundhead</l>
+               <l>Begins the Game again,</l>
+               <l>Which ſo long the play<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in Forty four,</l>
+               <l>Now with greater hope;</l>
+               <l>For the fine Sham-Plots will ne're give over,</l>
+               <l>Till they piouſly have routed King and Pope.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>
+                  <hi>Anthony</hi> that Worm of Reformation,</l>
+               <l>Who of <hi>Commonwealths</hi> has laid Foundation,</l>
+               <l>Which the Nation</l>
+               <l>So hotly does perſue;</l>
+               <l>Let him be rewarded in the <hi>Tower,</hi>
+               </l>
+               <l>For his Merits due:</l>
+               <l>By that buſie Plotting head laid lower,</l>
+               <l>We may perhaps eſcape what might enſue.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>
+                  <hi>Perkin</hi> make fine Legs to th' ſhouting Rabble,</l>
+               <l>Who to makes him King he thinks are able;</l>
+               <l>But the Bauble</l>
+               <l>Is only ſhew'd for uſe:</l>
+               <l>The ſilly Idiot ſerves but for a Tooll ſtill,</l>
+               <l>For Knaves to work their Feats,</l>
+               <l>And will remain a dull miſtaken Fool ſtill,</l>
+               <l>For all their damn'd Cabals and <hi>Wapping</hi> Treats.</l>
+            </lg>
+            <lg n="4">
+               <head>4,</head>
+               <l>The moſt zealous Parliament devoted,</l>
+               <l>For the publick good devoutly Voted,</l>
+               <l>Pray note it,</l>
+               <l>That the Duke muſt ne're be King;</l>
+               <l>And like honeſt faithful Loyal Subjects,</l>
+               <l>His Majeſty implore,</l>
+               <l>To ſign their pious and Religious Projects,</l>
+               <l>Or elſe the threaten'd King muſt Reign no more.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>The Renowned Work of Reformation,</l>
+               <l>To be carry'd on throughout the Nation,</l>
+               <l>In a paſſion</l>
+               <l>They Vote the Canons down;</l>
+               <l>Acts and Statutes all muſt be confounded,</l>
+               <l>Law and Juſtice too,</l>
+               <l>To make way for the proud Rebellious Roundhead,</l>
+               <l>That they once more the Nation may undo.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Lords and Biſhops both are uſeleſs Voted,</l>
+               <l>And the Factious Crew who gravely Plotted,</l>
+               <l>Are <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed</l>
+               <l>For Lords and Commons too:</l>
+               <l>
+                  <hi>Whigs</hi> and <hi>Brumighams</hi> wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Shams and Stories,</l>
+               <l>Are true Proteſtants,</l>
+               <l>And Proteſtants are <hi>Maſquerad<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> and <hi>Tories,</hi>
+               </l>
+               <l>The Modern Reformation of the Saints.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Old Queen <hi>Beſs</hi> that made the beſt Indentures,</l>
+               <l>Good King <hi>Jemmy</hi> too againſt Diſſenters,</l>
+               <l>He ventures</l>
+               <l>To turn them out of doors;</l>
+               <l>To take in <hi>Quakers, Puritans</hi> and <hi>Ranters,</hi>
+               </l>
+               <l>The Parliament implores,</l>
+               <l>To build a Kirk of <hi>Whigs</hi> and <hi>Covenanters,</hi>
+               </l>
+               <l>And make a Lawful Race of Sons of Whores.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>
+                  <hi>Rowley</hi> now with Wiſdom and grave Reaſon,</l>
+               <l>To prevent the ſwift approaching Treaſon,</l>
+               <l>In ſeaſon</l>
+               <l>Put a period to their ſtrife;</l>
+               <l>In <hi>Oxford</hi> all their Stratagems confounded,</l>
+               <l>The Roguiſh <hi>Joyner</hi> too.</l>
+               <l>And may no better Fate attend the Roundhead,</l>
+               <l>That wou'd the Church and Monarchy ſubdue.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>
+                  <hi>Oxford</hi> Loyal Youths who ſcorn to Sham us,</l>
+               <l>With a perjur'd Bill of <hi>Ignoramus,</hi>
+               </l>
+               <l>Or name us</l>
+               <l>For Loyal, Traytors known;</l>
+               <l>Soon found a flaw i'th' bottom of the <hi>Joyner,</hi>
+               </l>
+               <l>By Juſtice and the Laws,</l>
+               <l>Of Church and Commonwealth an Underminer,</l>
+               <l>Who fell a Martyr in the <hi>Good Old Cauſe.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>Now for ſhame ye Zealots be confounded,</l>
+               <l>Boaſt no more Allegiance, ſince a Roundhead</l>
+               <l>Is grounded</l>
+               <l>Upon the Holy Sham:</l>
+               <l>How dare ye talk of Loyalty, a Hater</l>
+               <l>Of Juſtice, King and Laws,</l>
+               <l>Since the <hi>Whiggiſh</hi> Proteſtant is found a Traytor,</l>
+               <l>And dyes a Martyr in the <hi>Good Old Cauſe.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nath. Thompſon,</hi> Anno Dom. 1682</p>
+         </div>
+      </back>
+   </text>
+</TEI>
